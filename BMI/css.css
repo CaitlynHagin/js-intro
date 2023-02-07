@@ -1,0 +1,12 @@
+
+#calculate {
+    padding: 1rem 1.5rem;
+    border: none;
+    color: white;
+    background-image: linear-gradient(to top right, #98c6ff, #fb86cb);
+    border-radius: 100%;
+}
+
+body {
+    background-color: orange;
+}
