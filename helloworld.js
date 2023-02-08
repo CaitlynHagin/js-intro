@@ -2,7 +2,7 @@ console.log('sending a message');
 
 // document.getElementById("first-para").innerHTML ='Hello!';
 
-/*TUESDAY*/
+/*we want to change the link*/
 
 const mydiv = document.getElementById("example");
 const myinput = document.getElementById("myinput");
@@ -15,6 +15,4 @@ console.log(mylink.href);
 mylink.href = 'https://airbnb.co.uk';
 myinput.value = 'Dummy text';
 mydiv.style.backgroundColor = 'blue';
-/* create three elements on the page, each with an ID of your choice
-Using document.getElement... change some attribute on the element */
-// white_check_mark
+
