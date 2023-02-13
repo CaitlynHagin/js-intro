@@ -1,9 +1,9 @@
     //showing my js is linked to html
     console.log("am linked test")
 
-
    //linking button with id - getting the element 
     let button =document.getElementById('calculate')
+
 
     //listening for click on button
     button.addEventListener('click',(e)=> { 
